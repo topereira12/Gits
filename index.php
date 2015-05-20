@@ -57,7 +57,7 @@
 	</marquee>
 	<?php
 
-echo 'envia'
+echo 'envia';
 mail("to.pereira12@gmail.com","assunto", "teste eee","From: to@email.com");
 	?>
 </body>
